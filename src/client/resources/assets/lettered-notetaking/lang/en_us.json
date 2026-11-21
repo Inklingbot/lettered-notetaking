@@ -1,4 +1,6 @@
 {
   "key.lettered-notetaking.open_notes": "Open Notes",
-  "key.category.lettered-notetaking.notes": "Lettered Notetaking"
+  "key.category.lettered-notetaking.notes": "Lettered Notetaking",
+  "key.lettered-notetaking.notes.title": "Lettered Notes",
+  "screen.lettered-notetaking.notes.body": "Your notes will appear here!"
 }
