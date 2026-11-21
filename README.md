@@ -4,7 +4,8 @@
 | :--- | :--- |:-------|
 | 11/17 |	Brainstormed for Ideas | 1     |
 | 11/20 | IDE Setup, First Steps | 3     |
-| Total	| | 	4    |
+| 11/21 | Basic GUI Added, Json Logic | 2 |
+| Total	| | 	6    |
 
 ## Setup
 
